@@ -1,3 +1,8 @@
+# TODO
+[ ] Check for APIs to prices / exchanges
+[ ] Check for APIs to trade(s)
+[ ] Update list of [CryptoShmito](https://twitter.com/greenido/lists/cryptoshmito)
+
 # CryptoList
 Curated collection of blockchain &amp; cryptocurrency links.
 
